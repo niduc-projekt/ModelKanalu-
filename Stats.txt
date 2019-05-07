@@ -1,0 +1,9 @@
+Procent poprawnych bitów: 96.18 %
+Iloœæ z³ych bitów: 382
+Iloœæ dobrych bitów: 9618
+Iloœæ wszystkich bitów: 10000
+Iloœæ bitów informacji: 10000
+Iloœæ bitów po zakodowaniu: 30000
+Ilosc bitow nadmiarowych20000
+Procent danych w sygnale :33.333333333333336 %
+Procent nadmiarowych bitów w sygnale66.66666666666667 %
